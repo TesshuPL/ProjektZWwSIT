@@ -1,8 +1,8 @@
-### Witam na mojej stronie stworzonej za pośrednictwem GH-Pages
+## Witam na mojej stronie stworzonej za pośrednictwem GH-Pages
 
-You can use the [editor on GitHub](https://github.com/TesshuPL/ProjektZWwSIT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+"The inner machinations of my mind are an enigma..."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fpl%2Fgifs%2Fsearch%2Fpatrick%2Bstar%2Benigma%2Bmilk%2Bsecret%2Bbox&psig=AOvVaw1AN38XFlWRfQAwo1v96t3U&ust=1623919128410000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMClyajgm_ECFQAAAAAdAAAAABAb)
 
 ### Markdown
 
