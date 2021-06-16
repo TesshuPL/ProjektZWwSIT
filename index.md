@@ -7,15 +7,10 @@ W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
 
 <img src="https://ocdn.eu/pulscms-transforms/1/iW-k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmNTk2MTk0BoGhMAE/gettyimages-954867550.jpg" alt="zdjęcie">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Krótkie informacje:
 
 ```
-**Krótkie informacje o mnie:**
-
 - Wiek: 23
 - Student US
 - WEFIZ Informatyka i Ekonometria
-
 ```
