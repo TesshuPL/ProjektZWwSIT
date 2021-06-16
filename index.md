@@ -1,8 +1,8 @@
 ## Witam na mojej stronie stworzonej za pośrednictwem GH-Pages
 
-### "The inner machinations of my mind are an enigma..."
+### "[The inner machinations of my mind are an enigma...](https://www.youtube.com/watch?v=1z-pVZiRjac)"
 
-[Link](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
+
 
 
 ### Markdown
