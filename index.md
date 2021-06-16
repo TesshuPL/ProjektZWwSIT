@@ -9,6 +9,7 @@ W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
 [Psy](podstrona2.md)
 
 [Link do GH-Pages](https://github.com/TesshuPL/ProjektZWwSIT/tree/gh-pages)
+[Link do kodu](https://github.com/TesshuPL/ProjektZWwSIT/edit/gh-pages/index.md)
 
 <img src="https://ocdn.eu/pulscms-transforms/1/iW-k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmNTk2MTk0BoGhMAE/gettyimages-954867550.jpg" alt="zdjęcie">
 
