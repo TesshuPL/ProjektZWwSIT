@@ -2,18 +2,17 @@
 
 ### "[The inner machinations of my mind are an enigma...](https://www.youtube.com/watch?v=1z-pVZiRjac)"
 
+
 W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
+
+<img src="https://ocdn.eu/pulscms-transforms/1/iW-k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmNTk2MTk0BoGhMAE/gettyimages-954867550.jpg" alt="zdjęcie">
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+```
+Krótkie informacje o mnie:
 
 - Bulleted
 - List
