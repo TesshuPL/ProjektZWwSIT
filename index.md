@@ -4,7 +4,6 @@
 
 [Link](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
 
-<iframe src='https://gfycat.com/ifr/IncredibleTautChihuahua' frameborder='0' scrolling='no' allowfullscreen width='640' height='535'></iframe><p> <a href="https://gfycat.com/incredibletautchihuahua-machinations-patrick-enigma">via Gfycat</a></p>
 
 ### Markdown
 
