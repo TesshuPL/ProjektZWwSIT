@@ -5,7 +5,7 @@
 [Link](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
 
 <h1>Animated Image</h1>
-<img src="https://gfycat.com/incredibletautchihuahua">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fpl%2Fgifs%2Fsearch%2Fpatrick%2Bstar%2Benigma%2Bmilk%2Bsecret%2Bbox&psig=AOvVaw1AN38XFlWRfQAwo1v96t3U&ust=1623919128410000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMClyajgm_ECFQAAAAAdAAAAABAr">
 
 ### Markdown
 
