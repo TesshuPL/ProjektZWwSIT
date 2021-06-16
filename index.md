@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Witam na mojej stronie stworzonej za pośrednictwem GH-Pages
 
 You can use the [editor on GitHub](https://github.com/TesshuPL/ProjektZWwSIT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
