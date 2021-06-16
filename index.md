@@ -5,13 +5,7 @@
 
 W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
 
-#1
-TesshuPL#1
-TesshuPL/github-flavored-markdown#1
-
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+<a href="https://github.com/TesshuPL/ProjektZWwSIT/blob/gh-pages/o%20mnie">
 
 <img src="https://ocdn.eu/pulscms-transforms/1/iW-k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmNTk2MTk0BoGhMAE/gettyimages-954867550.jpg" alt="zdjęcie">
 
