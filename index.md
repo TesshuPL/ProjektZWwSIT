@@ -1,9 +1,8 @@
-## Witam na mojej stronie stworzonej za pośrednictwem GH-Pages
+## Witam na mojej stronie
 
 ### "[The inner machinations of my mind are an enigma...](https://www.youtube.com/watch?v=1z-pVZiRjac)"
 
-
-
+W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
 
 ### Markdown
 
