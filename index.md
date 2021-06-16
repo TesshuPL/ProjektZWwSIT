@@ -4,6 +4,9 @@
 
 [Link](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
 
+<h1>Animated Image</h1>
+<img src="https://gfycat.com/incredibletautchihuahua">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
