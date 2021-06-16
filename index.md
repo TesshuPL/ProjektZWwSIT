@@ -5,7 +5,7 @@
 
 W zakładce "O mnie" znajdziecie fakty oraz ciekawostki o mnie.
 
-[O mnie](podstrona.md)
+[O mnie](podstrona.md) <br>
 [Psy](podstrona2.md)
 
 [Link do GH-Pages](https://github.com/TesshuPL/ProjektZWwSIT/tree/gh-pages)
