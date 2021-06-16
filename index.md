@@ -2,7 +2,7 @@
 
 ### "The inner machinations of my mind are an enigma..."
 
-![gif](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
+[Link](https://thumbs.gfycat.com/IncredibleTautChihuahua-mobile.mp4)
 
 ### Markdown
 
